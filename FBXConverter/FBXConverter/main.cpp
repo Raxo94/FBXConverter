@@ -1,7 +1,8 @@
 #include <iostream>
-//using namespace std;
+#include <fbxsdk.h>
+
 int main()
 {
-	std::cout << "hello";
+	std::cout << "POika s+idanas vbbirtvf";
 	getchar();
 }
